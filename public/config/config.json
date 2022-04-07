@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb5655914De92Cd29D73d5B9D13295e0519D9bcF2",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb5655914De92Cd29D73d5B9D13295e0519D9bcF2",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "NAME",
+  "SYMBOL": "SYMBOL",
+  "MAX_SUPPLY": 3200,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/0xb5655914De92Cd29D73d5B9D13295e0519D9bcF2",
+  "SHOW_BACKGROUND": true
+}
